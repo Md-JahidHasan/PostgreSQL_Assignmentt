@@ -1,2 +1,1 @@
-# PostgreSQL_Assignmentt
-# PostgreSQL_Assignmentt
+# PostgreSQL_Assignment
