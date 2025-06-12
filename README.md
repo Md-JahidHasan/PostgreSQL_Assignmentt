@@ -36,6 +36,6 @@
 
     -উদাহরণ:
 
-    UPDATE species
-    SET conservation_status = 'Historic'
-    WHERE discovery_date < '1800-01-01';
+        UPDATE species
+        SET conservation_status = 'Historic'
+        WHERE discovery_date < '1800-01-01';
