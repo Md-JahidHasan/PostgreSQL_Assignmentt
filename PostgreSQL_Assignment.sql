@@ -51,11 +51,6 @@ SELECT * from sightings;
 
 
 
-DROP Table rangers;
-DROP Table species;
-DROP Table sightings;
-
-
 -- Problem 1
 INSERT INTO rangers (name, region) VALUES ('Derek Fox', 'Coastal Plains');
 
